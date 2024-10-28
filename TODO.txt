@@ -1,0 +1,7 @@
+28 OCTUBRE 2024 CREACION CUENTA GITHUB Y SUBIDA DE FICHEROS HTML.
+POR HACER: o crear carpetas (se puede?) o modificar donde apuntan los ficheros.
+assets: 
+- js
+- images
+- fonts
+- css
